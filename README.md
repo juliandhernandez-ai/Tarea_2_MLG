@@ -9,6 +9,7 @@ Este repositorio contiene el material de referencia, los datos y el cuaderno de 
 | [`tarea2.pdf`](./tarea2.pdf) | Enunciado de la tarea. |
 | [`Argumentos.pdf`](./Argumentos.pdf) | Documento PDF de referencia incluido con la tarea. |
 | [`punto_2.ipynb`](./punto_2.ipynb) | Desarrollo ordenado del punto 2: análisis descriptivo, cuasi-verosimilitud y Simplex para los datos de cebada. |
+| [`punto_3.ipynb`](./punto_3.ipynb) | Desarrollo completo del punto 3: regresiones Simplex y Beta para grasa corporal y comparación AIC/BIC. |
 | [`puntos_2_y_3.ipynb`](./puntos_2_y_3.ipynb) | Análisis ejecutable de cebada y grasa corporal. |
 | [`cebada.dat`](./cebada.dat) | Datos de proporción de área foliar afectada, lugar y variedad de cebada. |
 | [`bodyfat.txt`](./bodyfat.txt) | Datos de porcentaje de grasa corporal y edad. |
